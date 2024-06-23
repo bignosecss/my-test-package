@@ -1,0 +1,19 @@
+{
+  "name": "bgncss-test-package",
+  "version": "1.0.0",
+  "description": "bgncss test package to learn how to publish package to npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bignosecss/my-test-package.git"
+  },
+  "author": "bignosecss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bignosecss/my-test-package/issues"
+  },
+  "homepage": "https://github.com/bignosecss/my-test-package#readme"
+}
